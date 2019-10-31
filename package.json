@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/rmjones112/Burger/issues"
   },
-  "homepage": "https://github.com/rmjones112/Burger#readme"
+  "homepage": "https://github.com/rmjones112/Burger#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "node": "^12.13.0"
+  }
 }
