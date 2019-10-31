@@ -1,3 +1,4 @@
-INSERT INTO burgers (name, eaten) VALUES ('big mac', false);
-INSERT INTO burgers (name, eaten) VALUES ('veggie burger', false);
-INSERT INTO burgers (name, eaten) VALUES ('good burger', false);
+insert into burgers_tbl(burger_name) values ('Cheese Burger');
+insert into burgers_tbl(burger_name) values ('Hamburger');
+insert into burgers_tbl(burger_name) values ('Bacon Cheese Burger');
+insert into burgers_tbl(burger_name) values ('Garlic Burger');
